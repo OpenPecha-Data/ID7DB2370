@@ -1,0 +1,36 @@
+id: ID7DB2370
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:54:49.924266'
+last_modified: '2022-05-30T20:54:49.924277'
+parser: null
+source_metadata:
+  title: Gorampa Sonam Senge
+  language: en
+  description: 'Texts by and about the great Sakya scholar Gorampa Sonam Senge (go
+    rams pa bsod nams seng ge, 1429–1489):'
+  volume:
+    fCB62:
+      title: 'Thunderous Melody: In Praise of the Omniscient Gorampa Sonam Senge'
+      base_file: fCB62.txt
+      order: 1
+      parent: Praise
+    fE373:
+      title: On Knowable Objects
+      base_file: fE373.txt
+      order: 2
+      parent: Pramāṇa
+    fCD5E:
+      title: 'The Treasure of Wisdom Illumination: A Prayer to the Omniscient Sun
+        of the Teachings Sonam Senge'
+      base_file: fCD5E.txt
+      order: 3
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
